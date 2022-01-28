@@ -4,7 +4,7 @@ How to run:
 
 1. Clone this repo
 
-`https://github.com/manoelhortaribeiro/bibtexcleaner`
+`git clone https://github.com/manoelhortaribeiro/bibtexcleaner`
 
 2. Install the bibtex parser
 
