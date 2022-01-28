@@ -2,7 +2,11 @@
 
 How to run:
 
-1. Install the bibtex parser
+1. Clone this repo
+
+`https://github.com/manoelhortaribeiro/bibtexcleaner`
+
+2. Install the bibtex parser
 
 `pip install bibtexparser`
 
